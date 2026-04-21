@@ -1,0 +1,1 @@
+. "/workspaces/fmt_project/build/conanbuildenv-release-x86_64.sh"
